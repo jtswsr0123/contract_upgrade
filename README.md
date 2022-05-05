@@ -1,0 +1,1 @@
+example of using proxy to update contract
